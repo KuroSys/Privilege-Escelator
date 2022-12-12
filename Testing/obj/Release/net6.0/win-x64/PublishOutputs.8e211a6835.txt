@@ -1,0 +1,2 @@
+C:\Users\root\Desktop\labenv\Testing\Testing\bin\Release\net6.0\publish\win-x64\Testing.pdb
+C:\Users\root\Desktop\labenv\Testing\Testing\bin\Release\net6.0\publish\win-x64\Testing.exe
